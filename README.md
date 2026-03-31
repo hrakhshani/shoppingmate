@@ -5,7 +5,7 @@
 <p>
   <img src="IMG_0738.PNG" width="32%" />
   <img src="IMG_0739.PNG" width="32%" />
-  <img src="IMG_0740.PNG" width="32%" />
+  <img src="IMG_0737.PNG" width="32%" />
 </p>
 The goal is a single-device shopping companion: ask questions, search for products, compare options, and get recommendations — with the language model running entirely on your phone or tablet.
 
