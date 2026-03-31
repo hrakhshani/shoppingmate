@@ -2,7 +2,7 @@
 
 **ShoppingMate** (repo: `MLXChat`) is an iPhone and iPad shopping assistant powered by an on-device foundation model. It runs Qwen3.5 locally via Apple MLX to provide product search, web search, and conversational Q&A — all without sending your queries to a cloud API.
 
-![Description](IMG_0738.PNG)
+<img src="images/IMG_0738.PNG" width="50%" />
 
 The goal is a single-device shopping companion: ask questions, search for products, compare options, and get recommendations — with the language model running entirely on your phone or tablet.
 
